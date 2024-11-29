@@ -11,4 +11,4 @@ User-agent: OAI-SearchBot
 Disallow: /
 
 
-Sitemap: https://nicholas.carlini.com
+Sitemap: http://karpathy.github.io/feed.xml
