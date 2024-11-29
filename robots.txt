@@ -9,6 +9,3 @@ Disallow: /
 
 User-agent: OAI-SearchBot
 Disallow: /
-
-
-Sitemap: http://karpathy.github.io/feed.xml
