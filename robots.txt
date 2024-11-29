@@ -11,4 +11,4 @@ User-agent: OAI-SearchBot
 Disallow: /
 
 
-Sitemap: https://cuijian0819.github.io/sitemap.xml
+Sitemap: https://nicholas.carlini.com
