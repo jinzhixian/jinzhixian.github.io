@@ -10,4 +10,4 @@ Disallow: /
 User-agent: OAI-SearchBot
 Disallow: /
 
-Sitemap: https://jinzhixian.github.io/sitemap.xml
+Sitemap: https://vegan-sneaker-store.herokuapp.com/sitemap.xml
