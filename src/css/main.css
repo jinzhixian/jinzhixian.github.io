@@ -63,6 +63,19 @@ body a { color: #212529 !important; }
   margin-right: 0.3em;
 }
 
+.publications-list {
+  list-style: disc;
+  margin: 0;
+  padding-left: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.publications-list li {
+  line-height: 1.65;
+}
+
 /* Responsive profile image */
 .col-md-3 img {
   width: 100%;
